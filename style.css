@@ -38,7 +38,7 @@ h1{
     text-align: center;
     color: rgb(196, 50, 50);
     font-size: clamp(17px, 2vw, 2vw);
-    font-family: cursive;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 400;
     margin-bottom: 75px;
 }
